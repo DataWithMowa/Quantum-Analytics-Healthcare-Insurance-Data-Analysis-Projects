@@ -56,6 +56,52 @@ To turn 37,542 raw policy records into clear business insights, I used Excel's d
 * Compare claims against the total number of policies for each car make and model next, to confirm whether Ford genuinely carries higher risk or simply has more vehicles represented in the dataset.
 * Revisit the flagged 1909 `car_year` entry and the reused ID before this data is used for anything beyond exploratory analysis.
 
+### 📊 Behind the Data: Pivot Table Breakdown
+
+<details>
+<summary><b>Click to expand and view individual Pivot Tables 🔍</b></summary>
+<br>
+
+To build the final dashboard, I broke down the raw data using these targeted pivot tables and charts:
+
+### 1. Claims by Gender and Kids Driving
+
+*Compares claim frequency and car use (private vs. commercial) across gender and whether kids are driving, to test if either demographic changes claim behavior.*
+
+<img width="781" height="277" alt="image" src="https://github.com/user-attachments/assets/be3e2d16-7b5c-4940-9268-3c53c655d7e1" />
+
+### 2. Claims by Education Level
+
+*Tracks claim frequency and claim amount across education levels, from high school to PhD, to see if education predicts how often or how much someone claims.*
+
+<img width="636" height="272" alt="image" src="https://github.com/user-attachments/assets/1001a921-2196-4495-9e56-f4364c81fc3c" />
+
+### 3. Claims by Coverage Zone
+
+*Breaks down claim amount and frequency across urban, rural, and suburban coverage zones, to test whether location changes claim behavior.*
+
+<img width="609" height="264" alt="image" src="https://github.com/user-attachments/assets/84fd1b58-c62e-40f2-987b-149deed5eb94" />
+
+### 4. Claims by Household Income
+
+*Compares claim frequency and claim amount across household income bands, from low to high, to test whether income predicts claim behavior.*
+
+<img width="699" height="271" alt="image" src="https://github.com/user-attachments/assets/af86ebd2-2250-4e28-98f1-9f03c7e18d6d" />
+
+### 5. Claims by Car Make
+
+*Ranks car makes by claim count, surfacing Ford as the clear outlier ahead of Chevrolet, Dodge, Toyota, and GMC.*
+
+<img width="737" height="387" alt="image" src="https://github.com/user-attachments/assets/79b8d0a8-879a-46bd-bf67-da97d446116f" />
+
+### 6. Claims by Car Color
+
+Breaks down claim rate by car color, showing Indigo, Aquamarine, and Purple running slightly higher than colors like Yellow or Maroon.
+
+<img width="771" height="320" alt="image" src="https://github.com/user-attachments/assets/d727d398-2acb-4997-907c-7416a3a10a7f" />
+
+</details>
+
 ### 📂 How to Open and Explore the Workbook
 
 1. You can download the full file here: [Car_Insurance_Policies.xlsx](#)
