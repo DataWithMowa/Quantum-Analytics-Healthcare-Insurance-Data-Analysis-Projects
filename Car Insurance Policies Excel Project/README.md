@@ -104,7 +104,7 @@ Breaks down claim rate by car color, showing Indigo, Aquamarine, and Purple runn
 
 ### 📂 How to Open and Explore the Workbook
 
-1. You can download the full file here: [Car_Insurance_Policies.xlsx](#)
+1. You can download the full file here: [Car_Insurance_Policies_Dashboard.xlsx](https://github.com/DataWithMowa/Quantum-Analytics-Healthcare-Insurance-Data-Analysis-Projects/tree/main/Car%20Insurance%20Policies%20Excel%20Project/Full%20Project)
 2. Open the file locally using **Microsoft Excel desktop**.
 3. Go to the **Dashboard** Sheet.
 4. Use the slicers on the dashboard to filter the charts by car make, coverage zone, or other segments dynamically.
