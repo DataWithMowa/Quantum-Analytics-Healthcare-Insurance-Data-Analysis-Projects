@@ -54,9 +54,13 @@ To turn a 52-row state dataset into a reliable before/after comparison, I used P
 
 * **Key Metric Tracking:** Created KPI cards to highlight the main numbers, including **National Uninsured Rate 2010 (15.50%), National Uninsured Rate 2015 (9.40%), Uninsured Rate Change (−6.10 points), States That Expanded Medicaid (32 of 51), and States With Their Own Marketplace (13 of 51).**
 
+<img width="661" height="53" alt="image" src="https://github.com/user-attachments/assets/af784bf9-0f89-416a-97d0-4b90f2fb5f46" />
+
 * **Chart Analysis:** Built visuals to rank states by uninsured-rate change, compare Medicaid enrollment in 2013 vs 2016, and break down coverage sources (employer, marketplace, Medicaid) by scale.
 
 * **Interactive Slicers:** Added slicers for **State Medicaid Expansion** and **State Health Insurance Marketplace**, letting users filter the dashboard down to expansion vs. non-expansion states, or state-run vs. federal marketplace states.
+
+<img width="122" height="35" alt="image" src="https://github.com/user-attachments/assets/f5289512-fb05-432f-a9c2-da630243d87c" />
 
 ### 📈 Strategic Recommendations & Next Steps
 
@@ -68,7 +72,7 @@ To turn a 52-row state dataset into a reliable before/after comparison, I used P
 
 ### 📂 How to Open and Explore the Dashboard
 
-1. You can download the full file here: [Health_Insurance_Coverage_Dashboard.pbix](#)
+1. You can download the full file here: [Health_Insurance_Coverage_Project.pbix](https://github.com/DataWithMowa/Quantum-Analytics-Healthcare-Insurance-Data-Analysis-Projects/tree/main/Health%20Insurance%20Coverage%20Power%20BI%20Project/Full%20Project)
 2. Open the file locally using Power BI Desktop.
 3. Go to the Dashboard page.
 4. Use the Medicaid Expansion and State Marketplace slicers to filter all the charts.
